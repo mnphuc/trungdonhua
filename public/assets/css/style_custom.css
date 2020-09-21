@@ -1,0 +1,7 @@
+.logo img {
+    max-height: 78px;
+}
+
+#collapse-coupon label.col-sm-2.control-label,#collapse-voucher label.col-sm-2.control-label{
+    display:none;
+}
